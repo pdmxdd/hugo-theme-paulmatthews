@@ -14,8 +14,8 @@ min_version = "0.41.0"
   name = "Paul Matthews"
   # homepage = ""
 
-# If porting an existing theme
-# [original]
-  # name = ""
-  # homepage = ""
-  # repo = ""
+# Collapsible inspiration drawn from
+[original]
+  name = "Learn"
+  homepage = "https://learn.netlify.app"
+  repo = "https://github.com/matcornic/hugo-theme-learn"
